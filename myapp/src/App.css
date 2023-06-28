@@ -1,0 +1,17 @@
+
+
+label {
+  font-family: 'monospace', Andale Mono, monospace;
+  font-weight: bold;
+  font-size: larger;
+}
+
+
+.MuiBox-root > label {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.MuiTabs-flexContainer button {
+  align-items: start;
+}

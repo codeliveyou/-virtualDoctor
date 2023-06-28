@@ -1,0 +1,24 @@
+.report {
+    background-color: rgb(46, 49, 49);
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1rem 1rem;
+    width: 80%;
+    border-radius: 10px;
+    }
+
+.report-txt {
+    margin-left: 2rem;
+  /* overflow-x: auto;
+  margin-right: 1rem;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word; */
+  /* overflow-x:auto; */
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-right: 1rem;
+  color: aliceblue;
+}
